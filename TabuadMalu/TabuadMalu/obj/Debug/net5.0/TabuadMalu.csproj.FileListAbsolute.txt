@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\bin\Debug\net5.0\TabuadMalu.exe
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\bin\Debug\net5.0\TabuadMalu.deps.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\bin\Debug\net5.0\TabuadMalu.runtimeconfig.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\bin\Debug\net5.0\TabuadMalu.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\bin\Debug\net5.0\TabuadMalu.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\bin\Debug\net5.0\TabuadMalu.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\refint\TabuadMalu.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\TabuadMalu.genruntimeconfig.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\TabuadMalu\TabuadMalu\obj\Debug\net5.0\ref\TabuadMalu.dll
