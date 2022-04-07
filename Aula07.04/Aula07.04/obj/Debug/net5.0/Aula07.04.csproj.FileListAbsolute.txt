@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\bin\Debug\net5.0\Aula07.04.exe
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\bin\Debug\net5.0\Aula07.04.deps.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\bin\Debug\net5.0\Aula07.04.runtimeconfig.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\bin\Debug\net5.0\Aula07.04.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\bin\Debug\net5.0\Aula07.04.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\bin\Debug\net5.0\Aula07.04.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\refint\Aula07.04.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\Aula07.04.genruntimeconfig.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula07.04\Aula07.04\obj\Debug\net5.0\ref\Aula07.04.dll

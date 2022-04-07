@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\bin\Debug\net5.0\CalcExGenEnq.exe
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\bin\Debug\net5.0\CalcExGenEnq.deps.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\bin\Debug\net5.0\CalcExGenEnq.runtimeconfig.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\bin\Debug\net5.0\CalcExGenEnq.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\bin\Debug\net5.0\CalcExGenEnq.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\bin\Debug\net5.0\CalcExGenEnq.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\refint\CalcExGenEnq.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\CalcExGenEnq.genruntimeconfig.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\CalcExGenEnq\CalcExGenEnq\obj\Debug\net5.0\ref\CalcExGenEnq.dll
