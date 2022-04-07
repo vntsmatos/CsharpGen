@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculadoraAula07.04/1.0.0": {
+        "runtime": {
+          "CalculadoraAula07.04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraAula07.04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
