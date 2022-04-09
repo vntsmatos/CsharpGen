@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\ExList8\ExList8\obj\Debug\net5.0\ExList8.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\ExList8\ExList8\obj\Debug\net5.0\ExList8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\ExList8\ExList8\obj\Debug\net5.0\ExList8.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\ExList8\ExList8\obj\Debug\net5.0\ExList8.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\ExList8\ExList8\obj\Debug\net5.0\ExList8.csproj.CoreCompileInputs.cache
