@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\bin\Debug\net5.0\Aula10Zoologico.exe
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\bin\Debug\net5.0\Aula10Zoologico.deps.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\bin\Debug\net5.0\Aula10Zoologico.runtimeconfig.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\bin\Debug\net5.0\Aula10Zoologico.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\bin\Debug\net5.0\Aula10Zoologico.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\bin\Debug\net5.0\Aula10Zoologico.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\refint\Aula10Zoologico.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\Aula10Zoologico.genruntimeconfig.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Zoologico\obj\Debug\net5.0\ref\Aula10Zoologico.dll

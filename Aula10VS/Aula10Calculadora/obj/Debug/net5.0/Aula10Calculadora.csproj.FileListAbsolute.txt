@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\bin\Debug\net5.0\Aula10Calculadora.exe
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\bin\Debug\net5.0\Aula10Calculadora.deps.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\bin\Debug\net5.0\Aula10Calculadora.runtimeconfig.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\bin\Debug\net5.0\Aula10Calculadora.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\bin\Debug\net5.0\Aula10Calculadora.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\bin\Debug\net5.0\Aula10Calculadora.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\refint\Aula10Calculadora.dll
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.pdb
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\Aula10Calculadora.genruntimeconfig.cache
+C:\Users\usuario\Desktop\UploadGit\CsharpGen\Aula10VS\Aula10Calculadora\obj\Debug\net5.0\ref\Aula10Calculadora.dll
