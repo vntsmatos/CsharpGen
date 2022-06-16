@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\bin\Debug\net5.0\VerificarNumeroPrimo.exe
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\bin\Debug\net5.0\VerificarNumeroPrimo.deps.json
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\bin\Debug\net5.0\VerificarNumeroPrimo.runtimeconfig.json
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\bin\Debug\net5.0\VerificarNumeroPrimo.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\bin\Debug\net5.0\VerificarNumeroPrimo.dll
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\bin\Debug\net5.0\VerificarNumeroPrimo.pdb
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.AssemblyInfo.cs
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.dll
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\refint\VerificarNumeroPrimo.dll
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.pdb
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\VerificarNumeroPrimo.genruntimeconfig.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarNumeroPrimo\VerificarNumeroPrimo\obj\Debug\net5.0\ref\VerificarNumeroPrimo.dll
