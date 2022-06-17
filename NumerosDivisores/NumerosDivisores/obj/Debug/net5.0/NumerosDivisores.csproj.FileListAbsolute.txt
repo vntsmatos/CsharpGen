@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\bin\Debug\net5.0\NumerosDivisores.exe
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\bin\Debug\net5.0\NumerosDivisores.deps.json
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\bin\Debug\net5.0\NumerosDivisores.runtimeconfig.json
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\bin\Debug\net5.0\NumerosDivisores.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\bin\Debug\net5.0\NumerosDivisores.dll
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\bin\Debug\net5.0\NumerosDivisores.pdb
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.AssemblyInfo.cs
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.dll
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\refint\NumerosDivisores.dll
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.pdb
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\NumerosDivisores.genruntimeconfig.cache
+C:\Users\usuario\Desktop\EstudoC#\NumerosDivisores\NumerosDivisores\obj\Debug\net5.0\ref\NumerosDivisores.dll
