@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\bin\Debug\net5.0\VerificarIdade.exe
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\bin\Debug\net5.0\VerificarIdade.deps.json
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\bin\Debug\net5.0\VerificarIdade.runtimeconfig.json
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\bin\Debug\net5.0\VerificarIdade.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\bin\Debug\net5.0\VerificarIdade.dll
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\bin\Debug\net5.0\VerificarIdade.pdb
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.AssemblyInfo.cs
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.dll
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\refint\VerificarIdade.dll
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.pdb
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\VerificarIdade.genruntimeconfig.cache
+C:\Users\usuario\Desktop\EstudoC#\VerificarIdade\VerificarIdade\obj\Debug\net5.0\ref\VerificarIdade.dll
