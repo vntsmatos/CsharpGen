@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\bin\Debug\net5.0\ExercicioParImpar.exe
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\bin\Debug\net5.0\ExercicioParImpar.deps.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\bin\Debug\net5.0\ExercicioParImpar.runtimeconfig.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\bin\Debug\net5.0\ExercicioParImpar.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\bin\Debug\net5.0\ExercicioParImpar.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\bin\Debug\net5.0\ExercicioParImpar.pdb
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.AssemblyInfo.cs
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\refint\ExercicioParImpar.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.pdb
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ExercicioParImpar.genruntimeconfig.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioParImpar\ExercicioParImpar\obj\Debug\net5.0\ref\ExercicioParImpar.dll
