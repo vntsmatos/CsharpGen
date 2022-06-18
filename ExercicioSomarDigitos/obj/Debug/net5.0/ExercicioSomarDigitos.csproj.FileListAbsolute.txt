@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\bin\Debug\net5.0\ExercicioSomarDigitos.exe
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\bin\Debug\net5.0\ExercicioSomarDigitos.deps.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\bin\Debug\net5.0\ExercicioSomarDigitos.runtimeconfig.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\bin\Debug\net5.0\ExercicioSomarDigitos.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\bin\Debug\net5.0\ExercicioSomarDigitos.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\bin\Debug\net5.0\ExercicioSomarDigitos.pdb
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.AssemblyInfo.cs
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\refint\ExercicioSomarDigitos.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.pdb
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ExercicioSomarDigitos.genruntimeconfig.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomarDigitos\obj\Debug\net5.0\ref\ExercicioSomarDigitos.dll
