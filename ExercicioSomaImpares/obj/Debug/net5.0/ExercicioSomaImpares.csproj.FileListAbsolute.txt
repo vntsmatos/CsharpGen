@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\bin\Debug\net5.0\ExercicioSomaImpares.exe
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\bin\Debug\net5.0\ExercicioSomaImpares.deps.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\bin\Debug\net5.0\ExercicioSomaImpares.runtimeconfig.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\bin\Debug\net5.0\ExercicioSomaImpares.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\bin\Debug\net5.0\ExercicioSomaImpares.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\bin\Debug\net5.0\ExercicioSomaImpares.pdb
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.AssemblyInfo.cs
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\refint\ExercicioSomaImpares.dll
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.pdb
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ExercicioSomaImpares.genruntimeconfig.cache
+C:\Users\usuario\Desktop\EstudoC#\ExercicioSomaImpares\obj\Debug\net5.0\ref\ExercicioSomaImpares.dll
